@@ -11,8 +11,8 @@ FastAPI-based API to convert LateX formula images into LaTeX code using a pre-tr
 **Clone the repository**
 
 ```console
-git clone <>
-cd <>
+git clone https://github.com/olmobaldoni/LaTex-Formula-OCR-API.git
+cd LaTex-Formula-OCR-API/app
 ```
 
 **Install dependencies**
@@ -50,7 +50,7 @@ Open your web browser and go to `localhost/docs` to access the Swagger UI for th
 **Pull the Docker image**
 
 ```console
-docker pull <>
+docker pull olmobaldoni/nougat-ocr-api:latest
 ```
 
 **Run the Docker container**
