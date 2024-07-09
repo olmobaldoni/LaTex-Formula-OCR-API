@@ -2,4 +2,4 @@
 .vscode/
 nougat_api_env/
 __pycache__/
-example/
+test_api/
