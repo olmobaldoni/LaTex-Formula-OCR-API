@@ -56,7 +56,7 @@ docker pull olmobaldoni/nougat-ocr-api:latest
 **Run the Docker container**
 
 ```console
-docker run -d --name nougat-ocr-api-container -p 80:80 your-dockerhub-username/nougat-ocr-api:latest
+docker run -d --name nougat-ocr-api-container -p 80:80 olmobaldoni/nougat-ocr-api:latest
 ```
 
 **Access the API**
